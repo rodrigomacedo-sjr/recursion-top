@@ -1,0 +1,17 @@
+{
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "fibo.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.5",
+    "jest": "^30.4.2"
+  }
+}
